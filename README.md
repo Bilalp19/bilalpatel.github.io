@@ -6,3 +6,4 @@ Below shows the link to the portfolio.
 
 ## Portfolio Website
 
+[The Portfolio](https://bilalp19.github.io/bilalpatel.github.io/)
