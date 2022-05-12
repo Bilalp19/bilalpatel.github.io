@@ -9,4 +9,4 @@ Below shows the link to the portfolio and some of my social media accounts.
 
 * [The Portfolio](https://bilalp19.github.io/bilalpatel.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/bilal-patel-2081931a3/)
-
+* [Twitter](https://twitter.com/BilalP_9)
